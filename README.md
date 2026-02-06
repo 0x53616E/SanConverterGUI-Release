@@ -73,6 +73,8 @@
 | 4 | s | Space |
 | 1 + 2 + 3 + 4 | r | Rotation |
 
+---
+
 ### One Two Party 8 Logic
 | Arrow Vortex Key | One-Two Party .SLK Key | Comment |
 |:---:|:---:|:---|
@@ -90,7 +92,7 @@
 ---
 
 ### Revert Logic
-The Converter can revert all Audition BeatUp.`slk` and all Audition One-Two Party.`slk`into an Stepmania `.SSC` file which is fully editable.
+The Converter reverts all Audition BeatUp.`slk` and all Audition One-Two Party.`slk`into an Stepmania `.SSC` file.
 
 ---
 
